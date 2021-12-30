@@ -1,3 +1,10 @@
+## Tech stack :
+ -  Tailwind CSS 3.0
+ -  Redux toolkit 
+ -  Typescript 
+ -  React
+ -  Firebase
+
 ## To generate css run the command : 
 (Note:The manual css are written inside input.css , after running this command consume the css in the desired component and this will generate corrsponding css in index.js which is the main css file)
 ```sh
