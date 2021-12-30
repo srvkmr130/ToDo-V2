@@ -9,7 +9,7 @@ import { IDecodedObject, IState, ITask, IUser } from "../type";
 import brandLogo from "../resources/images/brand-logo.png";
 import toDoIcon from "../resources/images/toDo.png";
 const clientId =
-  "375797887434-k5jeprpeiijk9tek00qcc05omcrlupsh.apps.googleusercontent.com";
+  "<clientId>";
 
 function Login() {
   const dispatch = useDispatch();
